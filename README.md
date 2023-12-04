@@ -1,5 +1,8 @@
 # hacks
 
+H1
+https://github.com/yedrueda/git_h-1.git
+
 H2
 https://github.com/yedrueda/git_h-2.git
 
